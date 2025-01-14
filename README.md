@@ -1,28 +1,26 @@
 ## Languages & Technologies
 
-### Programming Languages
-![HTML](https://img.shields.io/badge/Code-HTML-orange)
-![CSS](https://img.shields.io/badge/Code-CSS-blue)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
-![C++](https://img.shields.io/badge/Code-C++-00599C)
-![C#](https://img.shields.io/badge/Code-C%23-239120)
-![PHP](https://img.shields.io/badge/Code-PHP-blueviolet)
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" alt="HTML" height="40px">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg" alt="CSS" height="40px">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" alt="JavaScript" height="40px">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/cplusplus.svg" alt="C++" height="40px">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/csharp.svg" alt="C#" height="40px">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/php.svg" alt="PHP" height="40px">
 
-### Frontend
-![React](https://img.shields.io/badge/Framework-React-blue)
-![Next.js](https://img.shields.io/badge/Framework-Next.js-black)
-![jQuery](https://img.shields.io/badge/Library-jQuery-blue)
-![Bootstrap](https://img.shields.io/badge/Style-Bootstrap-purple)
-![Tailwind CSS](https://img.shields.io/badge/Style-TailwindCSS-teal)
-![Material UI](https://img.shields.io/badge/UI-Material--UI-blue)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
-![Express.js](https://img.shields.io/badge/Framework-Express.js-black)
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" alt="React" height="40px">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nextdotjs.svg" alt="Next.js" height="40px">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/jquery.svg" alt="jQuery" height="40px">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/bootstrap.svg" alt="Bootstrap" height="40px">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tailwindcss.svg" alt="Tailwind CSS" height="40px">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/materialui.svg" alt="Material UI" height="40px">
 
-### Databases
-![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)
 
-### Version Control
-![Git](https://img.shields.io/badge/Version%20Control-Git-orange)
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" alt="Node.js" height="40px">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/express.svg" alt="Express.js" height="40px">
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mysql.svg" alt="MySQL" height="40px">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mongodb.svg" alt="MongoDB" height="40px">
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/git.svg" alt="Git" height="40px">
+
