@@ -15,7 +15,6 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/jquery.svg" alt="jQuery" height="40px">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/bootstrap.svg" alt="Bootstrap" height="40px">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tailwindcss.svg" alt="Tailwind CSS" height="40px">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/materialdesignicons.svg" alt="Material UI" height="40px">
 
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" alt="Node.js" height="40px">
