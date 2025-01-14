@@ -1,8 +1,8 @@
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,php,firebase,mongodb,cplusplus,csharp,nextjs,mysql,jquery" /><br>
-</div> you know how to customize this
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,cpp,cs,bootstrap,tailwind,materialui,npm,git,vercel" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,php,jquery,mongodb,mysql,firebase,postman" />
+</div> 
 
 
 
