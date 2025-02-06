@@ -1,4 +1,4 @@
-<h3 align="center"> langues-framework-tools </h2>
+<h3 align="center"> Languages-Frameworks-Tools</h2>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cpp,bootstrap,tailwind,materialui,npm,vercel" />
