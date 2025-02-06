@@ -1,6 +1,4 @@
-<h1 align="center" >
-    Languages-Frameworks-Tools
-</h1>
+
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cpp,bootstrap,tailwind,materialui,npm,vercel" />
